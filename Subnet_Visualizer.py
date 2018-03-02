@@ -68,10 +68,3 @@ table.add_row(['Same Subnet ?', same ,check])
 
 print (table)
 
-exit = input("Press any key to exit")
-
-#print("Second IP: " + secondIP)
-#print("subnet Mask: " + subnetMask)
-
-#print(toBin(124))
-
